@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=jpkleemans&project=attribute-events&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ![Laravel Attribute Events](/../gh-pages/attribute-events.svg#gh-light-mode-only)
 ![Laravel Attribute Events](/../gh-pages/attribute-events-dark.svg#gh-dark-mode-only)
 
